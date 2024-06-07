@@ -1,0 +1,1 @@
+0 9 * * 1-5 interpreter/py /path/to/script &> log.log
